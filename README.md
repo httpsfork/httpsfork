@@ -3,4 +3,6 @@
 
 </p>
 
-[strawpage](https://yuristatic.straw.page)  ⋆   [twitter](https://x.com/yuriistatic)  ⋆   [ata](https://megistus.atabook.org/)
+<p align="center">
+<a href="https://yuristatic.straw.page" target="_blank">strawpage</a>   ⋆  <a href="https://x.com/yuriistatic" target="_blank">twitter</a>  ⋆  <a href="https://megistus.atabook.org/" target="_blank">ata</a>
+</p>
