@@ -1,3 +1,2 @@
 
-
-![rosie](https://media1.tenor.com/m/BllBbya2MEIAAAAC/rosie-hazbin-hotel.gif)
+<img src="(LINK)" />![rosie](https://media1.tenor.com/m/8GMrxlDN3HkAAAAd/rosie-hazbin-hotel.gif)
