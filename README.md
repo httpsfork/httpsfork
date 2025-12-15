@@ -5,5 +5,5 @@
 </p>
 
 <p align="center">
-  <a href="https://megistus.atabook.org/" target="_blank">ata</a>   ⋆   <a href="https://yuristatic.straw.page" target="_blank">strawpage</a>   ⋆  <a href="https://x.com/yuriistatic" target="_blank">twitter</a>
+  <a href="https://mimsie.atabook.org/" target="_blank">ata</a>   ⋆   <a href="https://yuristatic.straw.page" target="_blank">strawpage</a>   ⋆  <a href="https://x.com/yuriistatic" target="_blank">twitter</a>
 </p>
