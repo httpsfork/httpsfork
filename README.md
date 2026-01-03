@@ -3,7 +3,7 @@
 <div align="center">
   
   ###### lovely gooners :  <a href="https://github.com/afterpain" target="_blank">TISSUE</a>    ⸝⸝   <a href="https://github.com/KY0GEN" target="_blank">MORRI</a>   ⸝⸝   <a href="https://github.com/reiningcloud" target="_blank">JUNE</a>  ⸝⸝   <a href="https://github.com/consquence" target="_blank">AO</a>
-######  i just put the badge here dont judge it ok? ok
+  ######  i just put the badge here dont judge it ok? ok
 </div>
 
 <div align="center">
