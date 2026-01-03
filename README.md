@@ -8,6 +8,7 @@
 <div align="center">
   
 ![](https://komarev.com/ghpvc/?username=httpsfork&label=+★+&color=cf4c55&style=plastic)
+i just put the badge here dont judge it ok? ok.
 </div>
 
 <div align="center">
