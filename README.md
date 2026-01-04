@@ -20,3 +20,13 @@
   
  ###### <a href="https://cherriis.atabook.org/" target="_blank">ata</a>   ⋆   <a href="https://ponyfork.straw.page" target="_blank">strawpage</a>   ⋆  <a href="https://x.com/yuriistatic" target="_blank">twitter</a>
 </div>
+
+<p align="cente‪‪r"
+‪‪❤︎‬
+</p>
+
+
+<div align="center"
+  
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=pzmn4ruqzrcuv5gman34v1mrz&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=1db954&bar_color_cover=true&mode=dark)](https://spotify-github-profile.kittinanx.com/api/view?uid=pzmn4ruqzrcuv5gman34v1mrz&redirect=true)
+</div>
