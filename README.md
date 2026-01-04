@@ -36,6 +36,6 @@
 </div>
   
 <div align="center">
-  <img src="https://y2k.neocities.org/blinkiez/471501g8pw3nhprj.gif" /> <img src="https://y2k.neocities.org/blinkiez/tumblr_ozd4y9K1861tlixzfo4_250.gif" /> <img src="https://y2k.neocities.org/blinkiez/newbatch/fL2VKoA.gif" /> <img src="https://y2k.neocities.org/blinkiez/hello_kitty3.gif" /> <img src="https://y2k.neocities.org/blinkiez/tumblr_inline_oh0bi0HfNm1r95ok9_500.gif" /> <img src="https://blinkies.cafe/b/display/0130-twilightsparkle.gif" />
+  <img src="https://y2k.neocities.org/blinkiez/471501g8pw3nhprj.gif" /> <img src="https://y2k.neocities.org/blinkiez/tumblr_ozd4y9K1861tlixzfo4_250.gif" /> <img src="https://y2k.neocities.org/blinkiez/newbatch/fL2VKoA.gif" /> <img src="https://y2k.neocities.org/blinkiez/hello_kitty3.gif" /> <img src="https://y2k.neocities.org/blinkiez/tumblr_inline_oh0bi0HfNm1r95ok9_500.gif" /> <img src="https://blinkies.cafe/b/display/0130-twilightsparkle.gif" /> <img src="https://blinkies.cafe/?s=0165-jennifersbody" /> <img src="https://files.catbox.moe/goc920.gif" /> <img src="https://64.media.tumblr.com/a3e3a1cf7f3f1ce79b1bae8f6ce582b9/f01b417193c36424-c4/s250x400/0e9c701a321f9ff52194f2a60dff6b57fa69df9c.gif" />
 
 </div>
