@@ -12,7 +12,7 @@
 
 
 <div align="center">
-<img src="https://media1.tenor.com/m/s8x-H2b5-YwAAAAd/octavia-luna-hug-helluva-boss.gif" />
+<img src="https://media1.tenor.com/m/wFw-TyVNrkQAAAAC/helluva-boss-helluva.gif" />
 
 </div>
 <div align="center"
