@@ -11,10 +11,16 @@
 </div>
 
 
+
 <div align="center">
-<img src="https://media1.tenor.com/m/wFw-TyVNrkQAAAAC/helluva-boss-helluva.gif" />
+<img src="https://cdn.discordapp.com/attachments/1137375633081634919/1467686130747969679/Untitled685_20260202020022.png?ex=698148b9&is=697ff739&hm=3e5ea8b82e86a77c0889ca0f5b5336ec14bedaf70e90349dd7275507f4ac62ec" />
 
 </div>
+<div align="center">
+  
+  ###### ac: me !!
+</div>
+
 <div align="center"
   
  ###### <a href="https://cherriis.atabook.org/" target="_blank">ata</a>   ⋆   <a href="https://ponyly.straw.page" target="_blank">strawpage</a>   ⋆  <a href="https://x.com/yuriistatic" target="_blank">twitter</a>
