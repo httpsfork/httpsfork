@@ -13,13 +13,8 @@
 
 
 <div align="center">
-<img src="https://cdn.discordapp.com/attachments/1137375633081634919/1467688178940121241/IMG_20260202_020831.png?ex=69814aa2&is=697ff922&hm=1b77c729f297032cc9dad8ea0a78dfd5564b05635a8a804883a84e862ffc7e1c" />
+<img src="https://media.discordapp.net/attachments/1137375633081634919/1467690457214619718/heart-locket.gif?ex=69814cc1&is=697ffb41&hm=c7c300377326c1649db54e063e78e87ca9d9f0a7163272922a1a772ffec862f6&=&width=600&height=450" />
 
-</div>
-<div align="center">
-  
-  ###### ac: me !!
-</div>
 
 <div align="center"
   
