@@ -13,7 +13,7 @@
 
 
 <div align="center">
-<img src="https://cdn.discordapp.com/attachments/1137375633081634919/1467686130747969679/Untitled685_20260202020022.png?ex=698148b9&is=697ff739&hm=3e5ea8b82e86a77c0889ca0f5b5336ec14bedaf70e90349dd7275507f4ac62ec" />
+<img src="https://cdn.discordapp.com/attachments/1137375633081634919/1467688178940121241/IMG_20260202_020831.png?ex=69814aa2&is=697ff922&hm=1b77c729f297032cc9dad8ea0a78dfd5564b05635a8a804883a84e862ffc7e1c" />
 
 </div>
 <div align="center">
