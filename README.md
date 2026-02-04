@@ -34,7 +34,7 @@
 
 <div align="center">
   
-  ###### stamp/blinkie dump ٩(ˊᗜˋ*)و ♡
+  ###### <img src="https://files.catbox.moe/2x55s3.gif" /> stamp/blinkie dump ٩(ˊᗜˋ*)و ♡
 </div>
 
 
