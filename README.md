@@ -18,7 +18,7 @@
 
 <div align="center"
   
- ###### <a href="https://cherriis.atabook.org/" target="_blank">ata</a>   ⋆   <a href="https://yuriverbie.straw.page/" target="_blank">strawpage</a>   ⋆  <a href="https://x.com/yuriistatic" target="_blank">twitter</a>
+ ###### <a href="https://verosikas.atabook.org/" target="_blank">ata</a>   ⋆   <a href="https://yuriverbie.straw.page/" target="_blank">strawpage</a>   ⋆  <a href="https://x.com/yuriistatic" target="_blank">twitter</a>
  ###### the strawpage linked is my twt one, i'll make a ponytown sp in a bit
 </div>
 
