@@ -16,7 +16,7 @@
 <img src="https://media.discordapp.net/attachments/1137375633081634919/1467690457214619718/heart-locket.gif?ex=69814cc1&is=697ffb41&hm=c7c300377326c1649db54e063e78e87ca9d9f0a7163272922a1a772ffec862f6&=&width=600&height=450" />
 
 
-<div align="center"
+<div align="center">
   
  ###### <a href="https://verosikas.atabook.org/" target="_blank">ATA</a> <img src="https://64.media.tumblr.com/72bae3bc0c4ebe20a7dce8e8608df424/936ac740ae0e82a0-06/s75x75_c1/145c974da9519dabef5f45f5b34950e5f18677a7.gif" />   <a href="https://veros1kas.straw.page/" target="_blank">STRAW</a>  <img src="https://files.catbox.moe/e1yjfx.gif" />  <a href="https://x.com/yuriistatic" target="_blank">TWT</a>
 </div>
