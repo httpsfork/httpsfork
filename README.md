@@ -18,7 +18,7 @@
 
 <div align="center"
   
- ###### <a href="https://verosikas.atabook.org/" target="_blank">ata</a> <img src="https://64.media.tumblr.com/72bae3bc0c4ebe20a7dce8e8608df424/936ac740ae0e82a0-06/s75x75_c1/145c974da9519dabef5f45f5b34950e5f18677a7.gif" />   <a href="https://veros1kas.straw.page/" target="_blank">strawpage</a>  <img src="https://files.catbox.moe/e1yjfx.gif" />  <a href="https://x.com/yuriistatic" target="_blank">twitter</a>
+ ###### <a href="https://verosikas.atabook.org/" target="_blank">ATA</a> <img src="https://64.media.tumblr.com/72bae3bc0c4ebe20a7dce8e8608df424/936ac740ae0e82a0-06/s75x75_c1/145c974da9519dabef5f45f5b34950e5f18677a7.gif" />   <a href="https://veros1kas.straw.page/" target="_blank">STRAW</a>  <img src="https://files.catbox.moe/e1yjfx.gif" />  <a href="https://x.com/yuriistatic" target="_blank">TWT</a>
 </div>
 
 <p align="cente‪‪r"
