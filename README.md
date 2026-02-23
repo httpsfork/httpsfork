@@ -11,10 +11,13 @@
 </div>
 
 
+<div align="center">
+<img src="[https://media1.tenor.com/m/G2P4KqKHHvsAAAAC/hi-chat-hi.gif](https://media1.tenor.com/m/Fs_vB_HcycoAAAAC/queen-bee-helluva-boss.gif)" />
 
 <div align="center">
-<img src="https://media1.tenor.com/m/G2P4KqKHHvsAAAAC/hi-chat-hi.gif" />
-
+  
+   ###### type of vibe i bring to the function
+</div>
 
 <div align="center">
   
