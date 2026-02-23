@@ -11,8 +11,8 @@
 </div>
 
 <div align="center">
-<img scrc="https://media1.tenor.com/m/Fs_vB_HcycoAAAAC/queen-bee-helluva-boss.gif"/>
-</div>
+<img src="https://media1.tenor.com/m/Fs_vB_HcycoAAAAC/queen-bee-helluva-boss.gif"
+  </div>
 
 
 <div align="center">
