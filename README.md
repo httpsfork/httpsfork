@@ -13,7 +13,7 @@
 
 
 <div align="center">
-<img src="https://media.discordapp.net/attachments/1137375633081634919/1467690457214619718/heart-locket.gif?ex=69814cc1&is=697ffb41&hm=c7c300377326c1649db54e063e78e87ca9d9f0a7163272922a1a772ffec862f6&=&width=600&height=450" />
+<img src="https://media1.tenor.com/m/G2P4KqKHHvsAAAAC/hi-chat-hi.gif" />
 
 
 <div align="center">
