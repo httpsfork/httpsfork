@@ -15,11 +15,6 @@
   </div>
 
 
-<div align="center">
-  
-   ###### type of vibe i bring to the function
-   </div>
-
 
 <div align="center">
   
