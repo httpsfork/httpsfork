@@ -11,7 +11,7 @@
 </div>
 
 <div align="center">
-<img src="https://media1.tenor.com/m/JHW5BXHJSDsAAAAd/helluva-boss-beelzebub.gif"
+<img src="https://i.pinimg.com/736x/a0/6a/35/a06a357207f02fe9742084b71a1855d3.jpg"
   </div>
 
 
