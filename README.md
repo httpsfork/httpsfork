@@ -18,7 +18,7 @@
 
 <div align="center">
   
- ###### <a href="https://verosikas.atabook.org/" target="_blank">ATA</a> <img src="https://64.media.tumblr.com/3c277fca37696a27ac22d95ea2a78bb6/1a6c7b4fec6eeb21-25/s75x75_c1/462913109ea84945baffe772b177f8f10f73b13d.gifv" />   <a href="https://veros1kas.straw.page/" target="_blank">STRAW</a>  <img src="https://64.media.tumblr.com/3313ca9cefb1d7c54313cb9cb0d89402/1a6c7b4fec6eeb21-32/s75x75_c1/2c37f41d36a45cb54b1f07c5ff6d558a56cb794d.gifv" />  <a href="https://x.com/yuriistatic" target="_blank">TWT</a>
+ ###### <a href="https://verosikas.atabook.org/" target="_blank">ATA</a> <img src="https://64.media.tumblr.com/3c277fca37696a27ac22d95ea2a78bb6/1a6c7b4fec6eeb21-25/s75x75_c1/462913109ea84945baffe772b177f8f10f73b13d.gifv" />   <a href="https://cunningcutie.straw.page" target="_blank">STRAW</a>  <img src="https://64.media.tumblr.com/3313ca9cefb1d7c54313cb9cb0d89402/1a6c7b4fec6eeb21-32/s75x75_c1/2c37f41d36a45cb54b1f07c5ff6d558a56cb794d.gifv" />  <a href="https://x.com/yuriistatic" target="_blank">TWT</a>
 </div>
 
 <p align="cente‪‪r"
