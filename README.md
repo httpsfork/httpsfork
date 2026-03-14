@@ -11,7 +11,7 @@
 </div>
 
 <div align="center">
-<img src="https://media1.tenor.com/m/mfKPRseThIsAAAAd/nicole-nicole-zzz.gif"
+<img src="https://media1.tenor.com/m/Y7rfAspymhwAAAAd/zzz-zenless-zone-zero.gif"
   </div>
 
 
