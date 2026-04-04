@@ -7,7 +7,7 @@
 
 <div align="center">
   
-![](https://komarev.com/ghpvc/?username=httpsfork&label=+★+&color=ed0b76&style=plastic)
+![](https://komarev.com/ghpvc/?username=httpsfork&label=+★+&color=d92d2d&style=plastic)
 </div>
 
 <div align="center">
