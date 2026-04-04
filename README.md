@@ -11,7 +11,7 @@
 </div>
 
 <div align="center">
-<img src="https://media1.tenor.com/m/tTIYM86x2ksAAAAC/aria-zzz-zzz.gif"
+<img src="https://media1.tenor.com/m/66NydZkGxpwAAAAd/cardcaptor-sakura-meiling-li.gif"
   </div>
 
 
