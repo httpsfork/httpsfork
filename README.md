@@ -18,7 +18,7 @@
 
 <div align="center">
   
- ###### <a href="https://arias.atabook.org/" target="_blank">ATA</a> <img src="https://i.postimg.cc/XY4R95cZ/IMG-9568.gif" />   <a href="https://forksie.straw.page" target="_blank">STRAW</a>   <img src="https://i.postimg.cc/fbqxGZxs/IMG-9560.gif" />  <a href="https://x.com/yuriistatic" target="_blank">TWT</a>
+ ###### <a href="https://arias.atabook.org/" target="_blank">ATA</a> <img src="https://i.postimg.cc/XY4R95cZ/IMG-9568.gif" />   <a href="https://monadaidouji.straw.page" target="_blank">STRAW</a>   <img src="https://i.postimg.cc/fbqxGZxs/IMG-9560.gif" />  <a href="https://x.com/yuriistatic" target="_blank">TWT</a>
 </div>
 
 <p align="cente‪‪r"
