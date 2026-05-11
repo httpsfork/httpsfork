@@ -11,7 +11,7 @@
 </div>
 
 <div align="center">
-<img src="https://i.pinimg.com/736x/b8/c9/e3/b8c9e307e8c3f2e5defda819a5321cad.jpg"
+<img src="https://media.discordapp.net/attachments/1137375633081634919/1503518399064440832/pantheress.png?ex=6a03a420&is=6a0252a0&hm=1b9e63991d5502fe5afab8ceeab49cce42cceb9e8be64fe0b37528aa9ab59259&=&format=webp&quality=lossless&width=750&height=750"
   </div>
 
 
