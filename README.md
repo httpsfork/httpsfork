@@ -35,6 +35,9 @@
 <img src="https://media.discordapp.net/attachments/1137375633081634919/1504496844128911390/image.png?ex=6a07335f&is=6a05e1df&hm=29c0f29794362a5cea2e3fa7d462175b9aaa3f858bbba3555d7eee38ec129187&=&format=webp&quality=lossless&width=630&height=246" 
   </div>
 
-
+<div align="center">
+  
+   ###### ? what did @afterpain mean by this
+</div>
 
 
