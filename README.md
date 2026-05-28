@@ -10,7 +10,7 @@
 </div>
 
 <div align="center">
-<img src="https://media1.tenor.com/m/xWEmR_FlJCMAAAAC/bianca-bianca-pokemon.gif"
+<img src="https://media1.tenor.com/m/hJbgNP5qaSEAAAAd/pinkpantheress-turn-it-up.gif"
   </div>
 
 
