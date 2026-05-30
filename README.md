@@ -17,7 +17,7 @@
 
 <div align="center">
   
- ###### <a href="https://arias.atabook.org/" target="_blank">ATA</a> <img src="https://i.postimg.cc/XY4R95cZ/IMG-9568.gif" />   <a href="https://crystalbun.straw.page/" target="_blank">STRAW</a>   <img src="https://i.postimg.cc/fbqxGZxs/IMG-9560.gif" />  <a href="https://x.com/catragistus" target="_blank">TWT</a>
+ ######  <img src="https://i.postimg.cc/XY4R95cZ/IMG-9568.gif" />   <a href="https://crystalbun.straw.page/" target="_blank">STRAW</a>   <img src="https://i.postimg.cc/fbqxGZxs/IMG-9560.gif" /> <a href="https://arias.atabook.org/" target="_blank">ATA</a> <a href="https://rentry.co/pokehime" target="_blank">RENTRY</a>
 </div>
 
 <p align="cente‪‪r"
