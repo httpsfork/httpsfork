@@ -10,7 +10,7 @@
 </div>
 
 <div align="center">
-<img src="https://media1.tenor.com/m/hJbgNP5qaSEAAAAd/pinkpantheress-turn-it-up.gif"
+<img src="https://i.pinimg.com/736x/db/42/67/db4267971168600211780ee2a3886949.jpg"
   </div>
 
 
