@@ -10,7 +10,7 @@
 </div>
 
 <div align="center">
-<img src="https://64.media.tumblr.com/21c6b3d456d75a51875d66a93142dd4f/028588277dfcbef0-40/s1280x1920/7e3c44b01dafe037c27b97bc9e09cc5ee5c3104b.gifv"
+<img src="https://64.media.tumblr.com/21c6b3d456d75a51875d66a93142dd4f/028588277dfcbef0-40/s1280x1920/7e3c44b01dafe037c27b97bc9e09cc5ee5c3104b.gifv">
   </div>
 
 
