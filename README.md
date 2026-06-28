@@ -10,7 +10,7 @@
 </div>
 
 <div align="center">
-<img src="https://files.catbox.moe/jgizwq.gifv" width=405>
+<img src="https://files.catbox.moe/jgizwq.gifv"
   </div>
 
 
