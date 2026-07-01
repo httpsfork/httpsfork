@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-<img src="https://64.media.tumblr.com/47246357a7738f903c04d97717f2b5ee/e17127601cb1620e-f7/s1280x1920/b928f813b148d71bfed79a688ed48b9f8e2c2fd4.gifv" width=305>
+<img src="https://media1.tenor.com/m/UfxNNaklU20AAAAC/pinkpantheress-pinkpanther.gif" width=305>
   </div>
 
 <div align="center">  
