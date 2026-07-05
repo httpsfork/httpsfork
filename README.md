@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-<img src="https://media1.tenor.com/m/JSV1zpt0EZYAAAAd/lianne-liannetheworld.gif" width=305>
+<img src="https://media1.tenor.com/m/XLXTgcZzH-QAAAAd/citlali-citlali-genshin.gif" width=305>
   </div>
 
 <div align="center">  
