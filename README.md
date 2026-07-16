@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-<img src="https://media1.tenor.com/m/CWMJyXIydO4AAAAd/trixie-mlp-beatrice-lulamoon.gif" width=305>
+<img src="https://i.pinimg.com/736x/89/62/d0/8962d03b60501de3c8a96e87af59ccf4.jpg" width=305>
   </div>
 
 <div align="center">  
