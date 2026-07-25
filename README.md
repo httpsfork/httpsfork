@@ -8,10 +8,7 @@
 <img src="https://i.pinimg.com/1200x/8e/cf/86/8ecf86f24c0cca78012e23f3c52785e3.jpg" width=305>
   </div>
 
-<div align="center">  
-  
-   ###### MONA MEGISTUS ENJOYERS :   <a href="https://github.com/duxlucens" target="_blank">FAYNE</a>   ⸝⸝      <a href="https://github.com/reiningcloud" target="_blank">JUNE</a>  ⸝⸝   <a href="https://github.com/conciliate" target="_blank">AO</a>  ⸝⸝   <a href="https://github.com/mavuikas" target="_blank">RYO</a>
-</div>
+
 
 <div align="center">
 
