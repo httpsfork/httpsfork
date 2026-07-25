@@ -10,7 +10,7 @@
 
 <div align="center">  
   
-   ###### MONA MEGISTUS ENJOYERS :   TISSUE   ⸝⸝      <a href="https://github.com/reiningcloud" target="_blank">JUNE</a>  ⸝⸝   <a href="https://github.com/conciliate" target="_blank">AO</a>  ⸝⸝   <a href="https://github.com/mavuikas" target="_blank">RYO</a>
+   ###### MONA MEGISTUS ENJOYERS :   <a href="https://github.com/duxlucens" target="_blank">FAYNE</a>   ⸝⸝      <a href="https://github.com/reiningcloud" target="_blank">JUNE</a>  ⸝⸝   <a href="https://github.com/conciliate" target="_blank">AO</a>  ⸝⸝   <a href="https://github.com/mavuikas" target="_blank">RYO</a>
 </div>
 
 <div align="center">
