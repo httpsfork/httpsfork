@@ -5,6 +5,6 @@
 <div align=center >
 
 ###### will rmk later
-###### sign my  <a href="https://remielles.atabook.org/" target="_blank">atabook</a> ! 
+###### <a href="https://remielles.atabook.org/" target="_blank">ata</a> ♡ <a href="https://rentry.co/remiyuri" target="_blank">rentry</a> 
 </div>
 
